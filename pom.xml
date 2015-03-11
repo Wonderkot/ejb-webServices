@@ -8,8 +8,8 @@
   
   <modules>
   	<module>serviceEAR</module>
-  	<module>../serviceEJB</module>
-  	<module>../serviceEJBClient</module>
+  	<module>serviceEJB</module>
+  	<module>serviceEJBClient</module>
   	<module>testServiceWAR</module>
   </modules>
 </project>
